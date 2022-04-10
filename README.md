@@ -24,7 +24,7 @@
 
 
 ## Illustrations
-  ![What's For Dinner?](https://jdeloach03.github.io/whats-for-dinner/)
+  ![What's For Dinner?](https://frontend.turing.edu/projects/module-1/assets/dinner/dinner_0.png)
 
 ## Features
 - Any of the radio buttons chosen will output a specific item from that array.
@@ -32,7 +32,7 @@
 
 ## Deployed Page
 
-Visit our published Hang In There Site! [here](https://jdeloach03.github.io/hang-in-there-boilerplate/)
+Visit our published Hang In There Site! [here](https://jdeloach03.github.io/whats-for-dinner/)
 
 ## Possible Future Extensions
   - A login page would be super cool, if it were responsive in a sense of allowing users login to be saved/recipe ideas they like to be stored within their page.
