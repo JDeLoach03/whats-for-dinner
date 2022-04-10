@@ -24,7 +24,7 @@
 
 //change the page when the project is fully complete.
 ## Illustrations
-  ![What's For Dinner?]()
+  ![What's For Dinner?](https://jdeloach03.github.io/whats-for-dinner/)
 
 ## Features
 - Any of the radio buttons chosen will output a specific item from that array.
@@ -36,6 +36,7 @@ Visit our published Hang In There Site! [here](https://jdeloach03.github.io/hang
 
 ## Possible Future Extensions
   - A login page would be super cool, if it were responsive in a sense of allowing users login to be saved/recipe ideas they like to be stored within their page.
+  - Adding in transitions via CSS would have appreciated.
 
 ## Set Up
 
