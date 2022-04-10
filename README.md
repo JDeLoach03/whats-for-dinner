@@ -22,7 +22,7 @@
   - HTML
   - CSS
 
-//change the page when the project is fully complete.
+
 ## Illustrations
   ![What's For Dinner?](https://jdeloach03.github.io/whats-for-dinner/)
 
